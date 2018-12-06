@@ -14,7 +14,7 @@ public class App {
      */
     public static void main(String[] args) {
         System.out.println("Cargando App...\n");
-        //interfaz.InterfazGrafica.run();
+        interfaz.InterfazPrincipal.main();
         System.out.println("Cerrando App...\n");
     }
     
